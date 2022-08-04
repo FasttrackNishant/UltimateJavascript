@@ -1,0 +1,11 @@
+Javascript allows to chage the datatype of the variable on runtime hence it is called as the dynamically typed language
+
+Javascript has seven primitives datatype 
+like N N S S B B U
+Null , Number , Symbol , String , Boolean , Biginit , Undefinded   
+
+
+# pratice set q3 
+yaha pe ek object banayi but ab uska hum name toh nahi change kar sakte but hum uske liye values chage kar sakte hain unki values and update bhi ho sakte hain 
+
+ab us object mein hum integer else dal nahi sakte
